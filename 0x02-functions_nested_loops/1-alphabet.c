@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Descrption: This is a function that turns the letters of the  lowercase
+ * print_alphabet - Make the alphabet
  *
  * Return: Always 0 (success)
  */
