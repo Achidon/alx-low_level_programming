@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Descrption: This is a function that turns the letters of the alphabet lowercase
+ * Descrption: This is a function that turns the letters of the  lowercase
  *
  * Return: Always 0 (success)
  */
@@ -10,7 +10,7 @@ void print_alphabet(void)
 {
 	char c;
 
-	for(c = 'a'; c <= 'z'; c++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		_putchar(c);
 	}
