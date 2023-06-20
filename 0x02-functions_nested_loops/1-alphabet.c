@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * print_alphabet - Make the alphabet
+ * print_alphabet - Make the alphabe
  *
  * Return: Always 0 (success)
  */
