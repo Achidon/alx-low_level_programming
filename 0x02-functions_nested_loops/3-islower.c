@@ -1,4 +1,9 @@
-include "main.h"
+/*
+ * File: 3-islower.c
+ * Auth: Achilonu Joseph
+ */
+
+#include "main.h"
 
 /**
  * _islower - Checks if a character is lowercase.
