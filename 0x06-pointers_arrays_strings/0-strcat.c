@@ -1,3 +1,8 @@
+/*
+ * File: 0-strcat.c
+ * Auth: Achilonu Joseph
+ */
+
 #include "main.h"
 
 /**
@@ -18,3 +23,5 @@ char *strcat(char *dest, const char *src)
 	for (index = 0; src[index]; index++)
 		dest[dest_len++] = src[index];
 
+	return (dest);
+}
